@@ -1,9 +1,9 @@
 window.jQuery = window.$ = require("jquery");
 require("popper.js");
 require("bootstrap");
-require("datatables.net-bs4");
-window.moment = require("moment");
-window.toastr = require("toastr/toastr");
+//require("datatables.net-bs4");
+//window.moment = require("moment");
+//window.toastr = require("toastr/toastr");
 require("simplebar");
 
 const siQapp = function() {
